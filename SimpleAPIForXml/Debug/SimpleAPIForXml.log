@@ -1,0 +1,180 @@
+﻿  xml_token.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.cpp(22): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  xml_stag.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_stag.cpp(53): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<17>(int,int [][17],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  xml_scanner.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_scanner.h(25): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_scanner.cpp(45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_scanner.cpp(71): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  xml_reference.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_reference.cpp(40): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<12>(int,int [][12],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  xml_parser.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_scanner.h(25): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.cpp(21): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.cpp(27): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.cpp(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.cpp(62): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.cpp(71): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.cpp(80): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.cpp(109): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  xml_etag.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_etag.cpp(43): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<13>(int,int [][13],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  xml_emptytag.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_emptytag.cpp(52): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<18>(int,int [][18],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  xml_decl.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_decl.cpp(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_decl.cpp(9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_decl.cpp(247): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<30>(int,int [][30],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  xml_comment.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_comment.cpp(71): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<5>(int,int [][5],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  xml_chardata.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_chardata.cpp(30): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<5>(int,int [][5],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  xml_cdata.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(103): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_cdata.cpp(33): note: 컴파일 중인 함수 템플릿 인스턴스화 'int sax_parser::xml_token::do_match<10>(int,int [][10],int [][2],int *,std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  SimpleAPIForXml.cpp
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(42): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(43): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(44): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(45): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(46): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(51): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_parser.h(52): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\xml_token.h(37): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\nfa2dfa.h(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\simpleapiforxml.cpp(128): note: 컴파일 중인 함수 템플릿 인스턴스화 'void sax_parser::nfa2dfa::print_dfa<7>(int [][7],int [])'에 대한 참조를 확인하십시오.
+c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\nfa2dfa.h(156): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\erich0929\documents\visual studio 2015\projects\simpleapiforxml\simpleapiforxml\simpleapiforxml.cpp(332): note: 컴파일 중인 함수 템플릿 인스턴스화 'void sax_parser::nfa2dfa::export_csv<17>(int [][17],int [],std::string &)'에 대한 참조를 확인하십시오.
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\erich0929\documents\visual studio 2015\Projects\SimpleAPIForXml\Debug\SimpleAPIForXml.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  SimpleAPIForXml.vcxproj -> C:\Users\erich0929\documents\visual studio 2015\Projects\SimpleAPIForXml\Debug\SimpleAPIForXml.exe
+  SimpleAPIForXml.vcxproj -> C:\Users\erich0929\documents\visual studio 2015\Projects\SimpleAPIForXml\Debug\SimpleAPIForXml.pdb (Full PDB)
